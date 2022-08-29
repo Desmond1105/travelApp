@@ -13,6 +13,5 @@ public class MainActivity extends AppCompatActivity {
         //everytime open update project
         //when done something click commit
         //then push to github file
-        //test22222222
     }
 }
