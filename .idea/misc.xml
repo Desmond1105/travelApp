@@ -3,26 +3,20 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/Dell Inspiron/Documents/GitHub/travelApp/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/User/OneDrive/Documents/GitHub/travelApp/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/User/OneDrive/Documents/GitHub/travelApp/app/src/main/res/layout/fragment_planner.xml" value="0.2509057971014493" />
         <entry key="..\:/Users/rival/OneDrive/Documents/GitHub/travelApp/app/src/main/res/drawable/account_background.xml" value="0.20185185185185187" />
         <entry key="..\:/Users/rival/OneDrive/Documents/GitHub/travelApp/app/src/main/res/drawable/account_foreground.xml" value="0.20185185185185187" />
         <entry key="..\:/Users/rival/OneDrive/Documents/GitHub/travelApp/app/src/main/res/drawable/checklist_background.xml" value="0.20185185185185187" />
         <entry key="..\:/Users/rival/OneDrive/Documents/GitHub/travelApp/app/src/main/res/drawable/checklist_foreground.xml" value="0.20185185185185187" />
-        <entry key="..\:/Users/rival/OneDrive/Documents/GitHub/travelApp/app/src/main/res/drawable/ic_list.xml" value="0.14375" />
-        <entry key="..\:/Users/rival/OneDrive/Documents/GitHub/travelApp/app/src/main/res/drawable/ic_spending.xml" value="0.14375" />
         <entry key="..\:/Users/rival/OneDrive/Documents/GitHub/travelApp/app/src/main/res/drawable/planner_background.xml" value="0.14739583333333334" />
         <entry key="..\:/Users/rival/OneDrive/Documents/GitHub/travelApp/app/src/main/res/drawable/planner_foreground.xml" value="0.14739583333333334" />
         <entry key="..\:/Users/rival/OneDrive/Documents/GitHub/travelApp/app/src/main/res/drawable/spending_background.xml" value="0.20185185185185187" />
         <entry key="..\:/Users/rival/OneDrive/Documents/GitHub/travelApp/app/src/main/res/drawable/spending_foreground.xml" value="0.20185185185185187" />
         <entry key="..\:/Users/rival/OneDrive/Documents/GitHub/travelApp/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
         <entry key="..\:/Users/rival/OneDrive/Documents/GitHub/travelApp/app/src/main/res/layout/activity_main2.xml" value="0.1171875" />
-        <entry key="..\:/Users/rival/OneDrive/Documents/GitHub/travelApp/app/src/main/res/layout/fragment_account.xml" value="0.264" />
-        <entry key="..\:/Users/rival/OneDrive/Documents/GitHub/travelApp/app/src/main/res/layout/fragment_checklist.xml" value="0.1" />
         <entry key="..\:/Users/rival/OneDrive/Documents/GitHub/travelApp/app/src/main/res/layout/fragment_first.xml" value="0.1" />
-        <entry key="..\:/Users/rival/OneDrive/Documents/GitHub/travelApp/app/src/main/res/layout/fragment_planner.xml" value="0.1" />
-        <entry key="..\:/Users/rival/OneDrive/Documents/GitHub/travelApp/app/src/main/res/layout/fragment_spending.xml" value="0.10597826086956522" />
         <entry key="..\:/Users/rival/OneDrive/Documents/GitHub/travelApp/app/src/main/res/menu/bottom_nav_menu.xml" value="0.13125" />
-        <entry key="..\:/Users/rival/OneDrive/Documents/GitHub/travelApp/app/src/main/res/menu/btm_nav.xml" value="0.12760416666666666" />
         <entry key="..\:/Users/rival/OneDrive/Documents/GitHub/travelApp/app/src/main/res/menu/btm_nav_menu.xml" value="0.23645833333333333" />
         <entry key="..\:/Users/rival/OneDrive/Documents/GitHub/travelApp/app/src/main/res/mipmap-anydpi-v26/account.xml" value="0.14739583333333334" />
         <entry key="..\:/Users/rival/OneDrive/Documents/GitHub/travelApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.14739583333333334" />
