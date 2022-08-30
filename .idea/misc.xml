@@ -3,6 +3,16 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/MAD/Assignment 2/travelApp/app/src/main/res/drawable-anydpi/button_image.xml" value="0.2703125" />
+        <entry key="..\:/MAD/Assignment 2/travelApp/app/src/main/res/drawable-anydpi/ic_action_name.xml" value="0.2703125" />
+        <entry key="..\:/MAD/Assignment 2/travelApp/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2703125" />
+        <entry key="..\:/MAD/Assignment 2/travelApp/app/src/main/res/drawable/btn_background.xml" value="0.2703125" />
+        <entry key="..\:/MAD/Assignment 2/travelApp/app/src/main/res/drawable/ic_baseline_account_circle_24.xml" value="0.2703125" />
+        <entry key="..\:/MAD/Assignment 2/travelApp/app/src/main/res/drawable/ic_baseline_map_24.xml" value="0.2703125" />
+        <entry key="..\:/MAD/Assignment 2/travelApp/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2703125" />
+        <entry key="..\:/MAD/Assignment 2/travelApp/app/src/main/res/drawable/ic_list.xml" value="0.2703125" />
+        <entry key="..\:/MAD/Assignment 2/travelApp/app/src/main/res/drawable/ic_spendings.xml" value="0.2703125" />
+        <entry key="..\:/MAD/Assignment 2/travelApp/app/src/main/res/layout/fragment_checklist.xml" value="0.264" />
         <entry key="..\:/Users/User/OneDrive/Documents/GitHub/travelApp/app/src/main/res/layout/activity_main.xml" value="0.264" />
         <entry key="..\:/Users/User/OneDrive/Documents/GitHub/travelApp/app/src/main/res/layout/fragment_planner.xml" value="0.2509057971014493" />
         <entry key="..\:/Users/rival/OneDrive/Documents/GitHub/travelApp/app/src/main/res/drawable/account_background.xml" value="0.20185185185185187" />

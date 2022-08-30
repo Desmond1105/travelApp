@@ -1,13 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
-<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@android:color/holo_blue_light">
+    android:orientation="vertical"
+    android:background="#EAAC8B">
+
 
     <TextView
-        android:layout_width="128dp"
-        android:layout_height="120dp"
-        android:text="checklist here"
+        android:id="@+id/textView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
         android:textSize="30sp"
-        android:layout_centerInParent="true"/>
-</RelativeLayout>
+        android:gravity="center"
+        android:text="TextView" />
+
+    <ImageButton
+        android:id="@+id/button"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:background="@drawable/btn_background"
+        android:text="Button"
+        android:src="@drawable/button_image"/>
+</LinearLayout>
