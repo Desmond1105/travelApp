@@ -18,10 +18,10 @@ android {
 
     signingConfigs {
         config {
-            keyAlias 'key0'
             storeFile file('C:/Users/rival/OneDrive/Documents/GitHub/travelApp/TestKey.jks')
             storePassword 'sabc123456'
             keyPassword 'abc123456'
+            keyAlias 'key0'
         }
     }
     buildTypes {
