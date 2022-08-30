@@ -1,6 +1,5 @@
 plugins {
     id 'com.android.application'
-    id 'com.google.gms.google-services'
 }
 
 android {
@@ -49,8 +48,6 @@ dependencies {
     testImplementation 'junit:junit:4.+'
     androidTestImplementation 'com.android.support.test:runner:1.0.2'
     androidTestImplementation 'com.android.support.test.espresso:espresso-core:3.0.2'
-    implementation platform('com.google.firebase:firebase-bom:30.3.2')
-    implementation 'com.google.firebase:firebase-database'
     implementation 'com.huawei.hms:awareness:1.0.7.303'
     implementation 'com.huawei.hms:hwid:5.0.5.301'
     implementation 'com.huawei.hms:image-render-fallback:1.0.3.302'
