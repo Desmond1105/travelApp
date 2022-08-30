@@ -16,8 +16,21 @@ android {
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
     }
 
+
+    signingConfigs {
+        config {
+            keyAlias 'key0'
+            storeFile file('C:/Users/rival/OneDrive/Documents/GitHub/travelApp/TestKey.jks')
+            storePassword 'sabc123456'
+            keyPassword 'abc123456'
+        }
+    }
     buildTypes {
+        debug {
+            signingConfig signingConfigs.config
+        }
         release {
+            signingConfig signingConfigs.config
             minifyEnabled false
             proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
         }
@@ -38,4 +51,10 @@ dependencies {
     androidTestImplementation 'com.android.support.test.espresso:espresso-core:3.0.2'
     implementation platform('com.google.firebase:firebase-bom:30.3.2')
     implementation 'com.google.firebase:firebase-database'
+    implementation 'com.huawei.hms:awareness:1.0.7.303'
+    implementation 'com.huawei.hms:hwid:5.0.5.301'
+    implementation 'com.huawei.hms:image-render-fallback:1.0.3.302'
+    implementation 'com.huawei.hms:image-render:1.0.3.303'
+    implementation 'com.huawei.hms:maps:5.0.5.301'
 }
+apply plugin: 'com.huawei.agconnect'
